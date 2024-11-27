@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440599564180",
+    "project_id": "mkmedia-1ce92",
+    "storage_bucket": "mkmedia-1ce92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440599564180:android:006dc0ce65c9f2d2cfc981",
+        "android_client_info": {
+          "package_name": "com.mehmetkaradana.instagrambasic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFQ2F8uf-CuuF8RrlJqNkr6E8kE2vz-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
